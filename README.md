@@ -1,17 +1,12 @@
-# Data Science - Research Jobs And Salaries in Data Science
+# 💻 Data Science - Research Jobs And Salaries in Data Science
 
 
 Fonte: Kaggle - url: *https://www.kaggle.com/datasets/hummaamqaasim/jobs-in-data*
 
 Descricao do Banco de Dados:
 Este conjunto de dados reune informacoes reais sobre empregos na area de ciencia de dados
-
----
-"""
-
-
-
-"""# Introducao aos conceitos de Analise Exploratoria
+------------------------------
+# Introducao aos conceitos de Analise Exploratoria
 
 # Carregando bibiliotecas
 
