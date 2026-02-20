@@ -20,11 +20,13 @@ import matplotlib.pyplot as
 import pandas as pd # Dataframe - Number One tool for Data Analysis
 import numpy as np # Numeric Operation
 
-import matplotlib.pyplot as plt # Data Visualization
+import matplotlib.pyplot as plt 
+
+# Data Visualization
 
 # Step 1 - Loading Database
 ```
-#Step 1 - Loading Database"""
+#Step 1 - Loading Database
 
 #df as Dataframe
 df = pd.read_csv("jobs_in_data.csv")
@@ -58,11 +60,11 @@ display(df.head(10))
 
 df.tail(10)
 ```
-## Estrutura geral o Dataframe"""
+## Estrutura geral o Dataframe
 ```
 df.info()
 ```
-## Estatística Descritiva - quantitativa"""
+## Estatística Descritiva - quantitativa
 
 
 ```
