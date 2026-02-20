@@ -6,7 +6,7 @@ Fonte: Kaggle - url: *https://www.kaggle.com/datasets/hummaamqaasim/jobs-in-data
 Descricao do Banco de Dados:
 Este conjunto de dados reune informacoes reais sobre empregos na area de ciencia de dados
 ------------------------------
-# Introducao aos conceitos de Analise Exploratoria
+## Introducao aos conceitos de Analise Exploratoria
 
 # Carregando bibiliotecas
 
@@ -57,15 +57,15 @@ Obs. Exibição de Resultados:
 display(df.head(10))
 
 df.tail(10)
-
-"""## Estrutura geral o Dataframe"""
-
+"""
+## Estrutura geral o Dataframe"""
+"""
 df.info()
+"""
+## Estatística Descritiva - quantitativa"""
 
-"""## Estatística Descritiva - quantitativa"""
 
-
-
+"""
 df.describe()
 
 
